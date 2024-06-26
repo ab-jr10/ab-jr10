@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+- I am a Mechanical Engineer by day and a Machine Learning enthusiast by night.
+- 🌱 I’m currently learning Machine learning.
+### Goals
+- Apply ML and AI techniques to mechanical engineering challenges.
+- Document my learning journey and progress over time.
+- Share insights, code, and resources with the community.
 <!--
 **ab-jr10/ab-jr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
